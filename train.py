@@ -557,9 +557,6 @@ def train(args):
         
     # Save the model's state
     torch.save(model.state_dict(), os.path.join(logdir, "final_model_state.pth"))
-        # Call the function to run the model and merge results with GeoJSON
-       # Call the function to run the model and merge results with GeoJSON
-    
 
     # Load the primary GeoJSON file containing  parcel areas
     print("Loading geodataframe...")
