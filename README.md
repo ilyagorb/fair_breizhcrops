@@ -1,6 +1,6 @@
 # Optimizing Crop Type Mapping for Fairness - Code Repository
 
-This repository contains the code used for the MSc thesis titled *Optimizing Crop Type Mapping for Fairness*, which explores methods to improve crop type classification while addressing class imbalance and the disparity between small and large agricultural parcels using the [BreizhCrops](https://github.com/dl4sits/BreizhCrops) dataset. The full thesis can be accessed at .
+This repository contains the code used for the MSc thesis titled *Optimizing Crop Type Mapping for Fairness*, which explores methods to improve crop type classification while addressing class imbalance and the disparity between small and large agricultural parcels using the [BreizhCrops](https://github.com/dl4sits/BreizhCrops) dataset. The full thesis can be accessed [here](https://purl.utwente.nl/essays/104460).
 
 ## Overview
 
